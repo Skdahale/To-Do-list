@@ -7,6 +7,29 @@
 
 ![Screenshot 2025-01-20 010456](https://github.com/user-attachments/assets/7e3ac441-de51-40de-acb7-c8f15f39d8ed)
 
+## Installation
+
+1. Clone the repository:
+
+   ```
+   git clone https://github.com/Skdahale/To-Do-list.git
+   ```
+2. Install dependencies:
+
+   ```
+   npm install
+   ```
+3. To build:
+      ```
+   npm run build
+   ```
+   
+3. Run the development server:
+   ```
+   npm run start
+   ```
+
+
 ## View task
 ![Screenshot 2025-01-20 005518](https://github.com/user-attachments/assets/13679664-80bc-4da3-baae-7c17dd920dcb)
 
